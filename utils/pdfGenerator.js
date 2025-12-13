@@ -6,7 +6,6 @@
  */
 
 import React from 'react';
-import html2pdf from 'html2pdf.js';
 import { createRoot } from 'react-dom/client';
 import CataloguePDF from '@/components/pdf/CataloguePDF';
 
@@ -16,7 +15,14 @@ import CataloguePDF from '@/components/pdf/CataloguePDF';
  * @param {Array} products - Array of product objects from data/products.js
  * @returns {Promise} - Promise that resolves when PDF is generated
  */
-export function generateCataloguePDF(products) {
+export async function generateCataloguePDF(products) {
+  // Ensure we're in the browser
+  if (typeof window === 'undefined' || typeof document === 'undefined') {
+    throw new Error('PDF generation can only be performed in the browser');
+  }
+
+  // Dynamically import html2pdf.js only on the client side
+  const html2pdf = (await import('html2pdf.js')).default;
   // PDF generation configuration
   const pdfConfig = {
     margin: 10,

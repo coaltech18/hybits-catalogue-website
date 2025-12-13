@@ -1,9 +1,10 @@
-'use client';
-
 import Link from 'next/link';
 import Logo from './Logo';
 
 export default function Footer() {
+  // Get current year on server (no hydration mismatch)
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer className="bg-hybits-dark text-[var(--hybits-surface)] mt-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -85,7 +86,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="border-t border-hybits-green-50 mt-8 pt-8 text-center text-sm opacity-75">
-          <p>&copy; {new Date().getFullYear()} Hybits. All rights reserved.</p>
+          <p>&copy; {currentYear} Hybits. All rights reserved.</p>
         </div>
       </div>
     </footer>
