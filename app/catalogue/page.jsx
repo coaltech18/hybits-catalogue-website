@@ -10,6 +10,10 @@ export default function CataloguePage() {
   const [searchQuery, setSearchQuery] = useState('');
 
   const filteredProducts = useMemo(() => {
+    if (!products || !Array.isArray(products)) {
+      return [];
+    }
+
     let filtered = products;
 
     // Filter by category
