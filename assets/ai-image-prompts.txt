@@ -1,0 +1,48 @@
+AI Image Generation Prompts for Hybits Product Catalogue
+===========================================================
+
+Studio White Background Product Photography Style
+Resolution: 2048x2048 pixels
+
+Product Image Prompts (one per slug):
+--------------------------------------
+
+buffet-dinner-plate — "Studio product photo of a Buffet Dinner Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+melamine-plate — "Studio product photo of a Melamine Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+ceramic-plate — "Studio product photo of a Ceramic Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+porcelain-plate — "Studio product photo of a Porcelain Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+stainless-steel-plate — "Studio product photo of a Stainless Steel Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+quarter-plate — "Studio product photo of a Quarter Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+chat-plate — "Studio product photo of a Chat Plate, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+soup-bowl — "Studio product photo of a Soup Bowl, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+sambar-bowl — "Studio product photo of a Sambar Bowl, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+dessert-bowl — "Studio product photo of a Dessert Bowl, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+juice-glass — "Studio product photo of a Juice / Welcome Drink Glass, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+water-glass — "Studio product photo of a Water Glass, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+regular-glass — "Studio product photo of a Regular Glass, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+ss-glass — "Studio product photo of a Stainless Steel Glass, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+tea-coffee-glass — "Studio product photo of a Tea / Coffee Glass, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+cup-saucer-set — "Studio product photo of a Cup & Saucer Set, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+dinner-spoon — "Studio product photo of a Dinner Spoon, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+fork — "Studio product photo of a Fork, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+soup-spoon — "Studio product photo of a Soup Spoon, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
+
+baby-spoon — "Studio product photo of a Baby Spoon, white seamless background, high-resolution, realistic texture, catalogue-style, soft natural top-down + 45-degree angle variations, crisp shadows, no props, 2048x2048."
