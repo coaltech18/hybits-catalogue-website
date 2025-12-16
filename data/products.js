@@ -86,6 +86,54 @@ export const products = [
     description: 'Chat plate perfect for snacks, street food, and appetizers. Available in 5", 6", and 7" sizes. Compact and practical.',
     sizeOptions: ['5"', '6"', '7"'],
   },
+  {
+    id: 'ss-thali-5-compartment',
+    category: 'Dinnerware',
+    title: 'SS Thali – 5 Compartment',
+    material: 'Food Grade Stainless Steel',
+    size: 'Standard',
+    weight: 'Approx. 450–550 g',
+    finish: 'Mirror Finish',
+    uses: [
+      'Hotels & Restaurants',
+      'Hostels & Canteens',
+      'Institutional Dining',
+      'Home Use',
+    ],
+    hygiene: [
+      'Rust resistant',
+      'Easy to clean',
+      'Food-safe stainless steel',
+      'Long-lasting durability',
+    ],
+    image: '/images/ss-thali-5-compartment.png',
+    description:
+      'Premium stainless steel 5-compartment thali designed for hygienic and organized meal serving. Ideal for hotels, hostels, canteens, and institutional dining.',
+  },
+  {
+    id: 'melamine-thali-5-compartment',
+    category: 'Dinnerware',
+    title: 'Melamine Thali – 5 Compartment',
+    material: 'High Quality Melamine',
+    size: 'Standard',
+    weight: 'Lightweight',
+    finish: 'Matte / Glossy',
+    uses: [
+      'Catering Services',
+      'Schools & Colleges',
+      'Office Cafeterias',
+      'Bulk Dining',
+    ],
+    hygiene: [
+      'Break resistant',
+      'Easy maintenance',
+      'Stain resistant',
+      'Food-safe material',
+    ],
+    image: '/images/melamine-thali-5-compartment.png',
+    description:
+      'Durable and lightweight melamine 5-compartment thali suitable for repeated use in catering, cafeterias, and institutional food services.',
+  },
   
   // Bowls Category
   {
