@@ -134,6 +134,32 @@ export const products = [
     description:
       'Durable and lightweight melamine 5-compartment thali suitable for repeated use in catering, cafeterias, and institutional food services.',
   },
+  {
+    id: 'polycarbonate-tray-6-compartment',
+    category: 'Dinnerware',
+    title: 'Polycarbonate Tray – 6 Compartment with Lid',
+    material: 'Food Grade Polycarbonate',
+    size: 'Standard (6 compartments)',
+    weight: 'Approx. 400–450 g',
+    finish: 'Transparent with Glossy Lid',
+    uses: [
+      'Catering Services',
+      'Institutional Dining',
+      'Food Delivery',
+      'Meal Prep & Portion Control',
+      'Events & Bulk Serving',
+    ],
+    hygiene: [
+      'Shatter resistant',
+      'BPA-free food-safe material',
+      'Easy to clean',
+      'Reusable & durable',
+      'Temperature resistant',
+    ],
+    image: '/images/polycarbonate-tray-6-compartment.png',
+    description:
+      'Durable 6-compartment polycarbonate food serving tray with secure transparent lid. Designed for institutional catering, meal prep, and food delivery services. Lightweight, shatter-resistant, and hygienic for repeated use.',
+  },
   
   // Bowls Category
   {
